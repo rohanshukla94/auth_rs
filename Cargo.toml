@@ -1,5 +1,5 @@
 [package]
-name = "auth_service"
+name = "auth_bhai"
 version = "0.1.0"
 edition = "2021"
 authors = ["Rohan Shukla <rdshukla1994@gmail.com>"]

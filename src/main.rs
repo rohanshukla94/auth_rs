@@ -1,4 +1,4 @@
-use auth_service::Credentials;
+use auth_bhai::Credentials;
 
 fn main() {
 
@@ -7,5 +7,5 @@ fn main() {
         password: "pass123".to_owned()    
     };
 
-    auth_service::authenticate(creds);
+    auth_bhai::authenticate(creds);
 }
